@@ -1,0 +1,25 @@
+container:
+  cmd: /exercise/run.sh
+  image: apluslms/grade-python:3.7-3.5-3.4
+  mount: _exercises/M04/T4_1_bin-to-hex
+fields:
+- name: solution
+  required: true
+  title: Solution
+generated_files:
+- content_in_template: true
+  file: number
+  key: number
+  url_in_template: true
+generator:
+  cmd:
+  - python3
+  - generator.py
+  cwd: _exercises/M04/T4_1_bin-to-hex
+max_points: 5
+max_submissions_before_regeneration: 3
+personalized: true
+template: ./_exercises/M04/T4_1_bin-to-hextemplate_en.html
+view_type: access.types.stdasync.acceptPost
+
+title: "T4.1: Bin-to-Hex"

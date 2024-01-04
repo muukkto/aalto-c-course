@@ -1,0 +1,34 @@
+{
+    "folders": [
+        {
+            "name": "T2.1 Hello world",
+            "path": "T2.1 Hello world"
+        },
+        {
+            "name": "T2.2 Fix numbers",
+            "path": "T2.2 Fix numbers"
+        },
+        {
+            "name": "T2.3 Power three",
+            "path": "T2.3 Power three"
+        },
+        {
+            "name": "T2.4 Fraction sum",
+            "path": "T2.4 Fraction sum"
+        },
+        {
+            "name": "T2.5 Vector",
+            "path": "T2.5 Vector"
+        },
+        {
+            "name": "T2.6 scan and print",
+            "path": "T2.6 scan and print"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "stdio.h": "c",
+            "cmath": "c"
+        }
+    }
+}

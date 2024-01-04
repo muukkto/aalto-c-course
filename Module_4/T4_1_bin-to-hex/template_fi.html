@@ -1,0 +1,11 @@
+{% extends 'access/exercise_frame.html' %}
+
+{% block exercise %}
+  <p>
+    Muunna alla oleva 16-bittinen binääriluku heksadesimaalimuotoon.
+  </p>
+  <div>Binääriluku (16 bittiä): <pre>{{ generated_files.number.content}}</pre></div>
+  {% include 'access/accept_post_form.html' %}
+
+{% include 'access/accept_files_form.html' %}
+{% endblock %}

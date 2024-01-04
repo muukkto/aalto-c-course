@@ -1,0 +1,29 @@
+{
+    "folders": [
+        {
+            "name": "T4.2 Bit manipulation I",
+            "path": "T4.2 Bit manipulation I"
+        },
+        {
+            "name": "T4.3 Bit manipulation II",
+            "path": "T4.3 Bit manipulation II"
+        },
+        {
+            "name": "T4.4 Bit Operations",
+            "path": "T4.4 Bit Operations"
+        },
+        {
+            "name": "T4.5 Bit sequence",
+            "path": "T4.5 Bit sequence"
+        },
+        {
+            "name": "T4.6 Frame header",
+            "path": "T4.6 Frame header"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "stdlib.h": "c"
+        }
+    }
+}

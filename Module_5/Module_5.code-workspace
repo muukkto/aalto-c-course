@@ -1,0 +1,37 @@
+{
+    "folders": [
+        {
+            "name": "T5.1 Read int",
+            "path": "T5.1 Read int"
+        },
+        {
+            "name": "T5.2 Segmentation fault",
+            "path": "T5.2 Segmentation fault"
+        },
+        {
+            "name": "T5.3 Array sum",
+            "path": "T5.3 Array sum"
+        },
+        {
+            "name": "T5.4 Count chars",
+            "path": "T5.4 Count chars"
+        },
+        {
+            "name": "T5.5 Sort array",
+            "path": "T5.5 Sort array"
+        },
+        {
+            "name": "T5.6 Count alpha",
+            "path": "T5.6 Count alpha"
+        },
+        {
+            "name": "T5.7 New string",
+            "path": "T5.7 New string"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "string.h": "c"
+        }
+    }
+}

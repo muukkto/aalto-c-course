@@ -1,0 +1,30 @@
+{
+    "folders": [
+        {
+            "name": "T9.1 Hex file dump",
+            "path": "T9.1 Hex file dump"
+        },
+        {
+            "name": "T9.2 Basic file processing",
+            "path": "T9.2 Basic file processing"
+        },
+        {
+            "name": "T9.3 Text file statistics",
+            "path": "T9.3 Text file statistics"
+        },
+        {
+            "name": "T9.4 Shop",
+            "path": "T9.4 Shop"
+        },
+        {
+            "name": "T9.5 Dungeon game",
+            "path": "T9.5 Dungeon game"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "stdio.h": "c",
+            "math.h": "c"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "name": "T8.1 Count strings",
+            "path": "T8.1 Count strings"
+        },
+        {
+            "name": "T8.2 Split a string",
+            "path": "T8.2 Split a string"
+        },
+        {
+            "name": "T8.3 Shop products",
+            "path": "T8.3 Shop products"
+        },
+        {
+            "name": "T8.4 Integer print",
+            "path": "T8.4 Integer print"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "typeinfo": "c"
+        }
+    }
+}

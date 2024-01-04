@@ -1,0 +1,12 @@
+{% extends 'access/exercise_frame.html' %}
+
+{% block exercise %}
+  <p>
+    Convert the below 16-bit binary number to a hexadecimal number.
+  </p>
+
+  <div>Binary number (16 bits): <pre>{{ generated_files.number.content}}</pre></div>
+  {% include 'access/accept_post_form.html' %}
+
+{% include 'access/accept_files_form.html' %}
+{% endblock %}
